@@ -1,0 +1,110 @@
+
+.container{
+    padding-top: 50px;
+}
+.part1{
+    background-image:url("./img/WhatsApp\ Image\ 2022-07-25\ at\ 5.42.32\ PM.jpeg");
+    height: 680px;
+
+}
+.navbar{
+    border-radius: 100px;
+ background: fixed;
+}
+.logo{
+    width:45%;
+    padding: 15px 30px;
+}
+ul li a{
+    color: black;
+    font-size: 22px;
+    justify-content: space-between;
+   margin-left: 25px;
+}
+.card{
+    width: 70%;
+    margin-left: 18%;
+    margin-top: 50px;
+}
+.part2{
+    background-image: url("./img/dark-bg.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    padding: 120px 0px 150px 0px;
+    position: relative;
+    height: 3080px;
+   
+}
+.part2 h2{
+    padding-top: 30px;
+    text-align: center;
+}
+.part2 span{
+    color: blueviolet;
+}
+.line-dec {
+    width: 100px;
+    height: 2px;
+    background-color: #7453fc;
+    margin: 0 auto 30px auto;
+}
+.part2 i{
+    background-position: center;
+    margin-top: 10px;
+}
+.part2 h5{
+    color: white;
+    padding-top: 5px;
+}
+.col-lg-12 {
+    flex: 0 0 auto;
+    width: 100%;
+    color: white;
+}
+row > * {
+    flex-shrink: 0;
+    width: 100%;
+    max-width: 100%;
+    padding-right: calc(var(--bs-gutter-x) * 0.5);
+    padding-left: calc(var(--bs-gutter-x) * 0.5);
+    margin-top: var(--bs-gutter-y);
+}
+div {
+    display: block;
+}
+.col-lg-6 {
+    flex: 0 0 auto;
+    width: 50%;
+}
+ul {
+    margin-bottom: 0px;
+    display: flex;
+}
+ul, li {
+    padding: 10px;
+    margin: 0;
+    list-style: none;
+}
+.section-heading {
+    position: relative;
+    z-index: 2;
+    margin-top: 0px;
+    margin-bottom: 80px;
+    text-align: center;
+}
+.currently-market .item {
+    background-color: #282b2f;
+    border: 1px solid #404245;
+    border-radius: 20px;
+    padding: 30px;
+    display: flex;
+    margin-bottom: 30px;
+}
+.currently-market .item .right-content {
+    margin-left: 30px;
+    width: 100%;
+}
+.author line-dec{
+    
+}
